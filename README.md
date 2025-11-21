@@ -746,14 +746,9 @@ copies or substantial portions of the Software.
 
 ## 📞 **Support & Contact**
 
-### **Technical Support**
-- **GitHub Issues**: [Create Issue](https://github.com/adityanaulakha/CleanSight-Zero-to-One/issues)
-- **Documentation**: [Wiki](https://github.com/adityanaulakha/CleanSight-Zero-to-One/wiki)
-- **API Reference**: [docs/API.md](./docs/API.md)
-
 ### **Business Inquiries**
-- **Email**: naulakhaaditya4@gmail.com
-- **LinkedIn**: [Aditya Naulakha](https://linkedin.com/in/adityanaulakha)
+- **Email**: arpitsaraswat80@gmail.com
+- **LinkedIn**: [Aditya Naulakha](https://www.linkedin.com/in/arpit-saraswat-a12730288)
 - **Website**: [cleansight.com](https://cleansight.com)
 
 ---
