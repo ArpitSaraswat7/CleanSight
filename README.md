@@ -748,7 +748,7 @@ copies or substantial portions of the Software.
 
 ### **Business Inquiries**
 - **Email**: arpitsaraswat80@gmail.com
-- **LinkedIn**: [Aditya Naulakha](https://www.linkedin.com/in/arpit-saraswat-a12730288)
+- **LinkedIn**: [Arpit Saraswat](https://www.linkedin.com/in/arpit-saraswat-a12730288)
 - **Website**: [cleansight.com](https://cleansight.com)
 
 ---
